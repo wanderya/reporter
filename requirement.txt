@@ -1,2 +1,3 @@
+packaging
 webdriver_manager
 selenium
